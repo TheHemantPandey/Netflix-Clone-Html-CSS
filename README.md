@@ -7,8 +7,10 @@ This project focuses on recreating the UI, layout, and visual design of Netflix 
 🔗 https://thehemantpandey.github.io/Netflix-Clone-Html-CSS/
 
 ## 📸 Preview
+Hero Section
 <img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/5ee2a8d5-d1ef-4368-92d7-06a495bc0b56" />
-<img width="1600" height="858" alt="image" src="https://github.com/user-attachments/assets/5af609fa-d267-4493-9df2-ce02cbb54af9" />
+
+Bottom Section or Footer area
 <img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/209086c3-98eb-4c20-b94b-084ed6a61fca" />
 
 ## 🚀 Features
